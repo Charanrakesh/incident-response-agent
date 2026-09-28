@@ -458,3 +458,6 @@ https://github.com/Charanrakesh
 This project is currently intended as a development and learning project.
 
 A formal open-source license can be added when the project is ready for public distribution.
+<img width="1366" height="768" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/f0c4d41a-cbe7-4eea-be9c-d9850bb55861" />
+<img width="1366" height="768" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/a29f10e0-7085-422b-8a2e-38f7878651df" />
+<img width="1366" height="768" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/fba2562f-78d4-4923-813f-43dc789c4681" />
